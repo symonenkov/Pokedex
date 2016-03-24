@@ -6,5 +6,5 @@ Pokedex is client for http://pokeapi.co/ with adaptive styling
 Run **index.html**
 
 ## github-pages
-
+http://symonenkov.github.io/Pokedex
 

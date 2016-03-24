@@ -1,0 +1,123 @@
+﻿/*types*/
+#normal{
+    background-color : #8B8B5A;
+}	
+#fire{
+    background-color : #DE6813;
+}	
+#water{
+    background-color : #3D70EC;
+}	
+#electric{
+    background-color : #F1C30C;
+}	
+#grass{
+    background-color : #5FAC38;
+}	
+#ice{
+    background-color : #6EC8C8;
+} 
+#fighting{
+    background-color : #A02721;
+}	
+#poison{
+    background-color : #662966;
+}	
+#ground{
+    background-color : #D4A931;
+}	
+#flying{
+    background-color : #9381C8;
+}	
+#psychic{
+    background-color : #F61E5F;
+}	
+#bug{
+    background-color : #8E9B1C;
+} 
+#rock{
+    background-color : #94812D;
+}	
+#ghost{
+    background-color : #564475;
+}	
+#dragon{
+    background-color : #4E0AF0;
+}	
+#dark{
+    background-color : #524035;
+}	
+#steel{
+    background-color : #9898BB;
+}	
+#fairy{
+    background-color : #DF70DF;
+}
+
+/**/
+#poke-image {
+    width:120px;
+}
+#poke-info-image {
+    width:160px;
+}
+#pokemon {
+    text-align: center;
+}
+
+.container{
+    
+    text-align:center;
+}
+.margin-wrap {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 220px;
+    text-align:center;
+
+}
+#header-title{
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px 120px 0px 120px;
+}
+.label {
+    font-size: 100%;
+    margin-left: 3px;
+}
+.types{
+    text-align: left;
+}
+
+.poke-info-wrap{
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.margin-wrap:hover{
+    background-color: #EFEBDB;
+}
+.active{
+    background-color: #EFEBDB;
+}
+#table{
+    margin: 0px 8px 0px 8px;
+}
+.fixed {
+    position : fixed;
+}
+.table{
+    font-size: 12px;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 2px;
+}
+#load-more{
+    margin-bottom:10px;
+    font-size: 22px;
+}
+#spinner{
+    text-align: center;
+}
